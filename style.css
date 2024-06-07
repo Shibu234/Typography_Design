@@ -1,0 +1,22 @@
+.main{
+    margin: 0 25% 0 25%;
+  }
+  div img{
+    width: 100%;
+  }
+  h1{
+    font-size: 25px;
+    text-indent: 120px;
+  }
+  .para{
+    margin: 5px 15% 5px 15%;
+  }
+  iframe{
+    width: 100%;
+  }
+  p{
+    font-family: Times New Roman;
+  }
+  .LastP{
+    margin: 0 3px 0 0;
+  }
